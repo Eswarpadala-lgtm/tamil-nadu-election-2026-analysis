@@ -1,0 +1,9 @@
+pct_votes
+total_votes
+evm_votes
+postal_vote_ratio
+party_win_rate
+is_major_party
+is_independent
+candidates_in_constituency
+winning_margin
